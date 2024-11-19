@@ -1,4 +1,4 @@
-<h1>Hello, I am AdibaI <br/><a href="https://www.linkedin.com/in/adiba-haque-829007237/">Computer Scientist</a>, <a href="https://scholar.google.com/citations?user=H_VGm-wAAAAJ&hl=en">Machine Learning Professional</a>, <a href="https://www.researchgate.net/"> and into Research and Development</a></h1>
+<h1>Hello, I am Adiba <br/><a href="https://www.linkedin.com/in/adiba-haque-829007237/">Computer Scientist</a>, <a href="https://scholar.google.com/citations?user=H_VGm-wAAAAJ&hl=en">Machine Learning Professional</a>, <a href="https://www.researchgate.net/"> and into Research and Development</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
